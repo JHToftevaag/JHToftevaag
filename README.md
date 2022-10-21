@@ -2,7 +2,7 @@
 - 👀 I’m interested in projectmanagement and agile development.
 - 🌱 I’m currently learning SAFe and Scrum.
 - 💞️ I’m looking to collaborate on products to learn productmanagement.
-- 📫 How to reach me ...
+- 📫 Reach me at: https://www.linkedin.com/in/jhtoftevaag/
 
 <!---
 JHToftevaag/JHToftevaag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
